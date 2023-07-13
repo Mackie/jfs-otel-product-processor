@@ -1,0 +1,17 @@
+{
+  "traceId":"ce5c8581f8f011831ae5cb67803f0820",
+  "eventTime":"2022-12-14T22:22:49.406Z",
+  "productId":"15656",
+  "client":{
+    "device":"Mac",
+    "os":{
+      "family":"Mac OS X",
+      "version":"10.15.15"
+    },
+    "agent":{
+      "family":"Chrome",
+      "version":"108.0.0"
+    }
+  },
+  "type":"view_product/1"
+}

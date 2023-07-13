@@ -1,0 +1,1 @@
+docker build -t 317884382061.dkr.ecr.eu-central-1.amazonaws.com/amazoncorretto:17-alpine-jdk-libstdc .
